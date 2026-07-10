@@ -1,21 +1,21 @@
 <h1 align="center"> 你好!我是一条小鲨 </h1>
 <h3  align="center">  欢迎来到我的海域!</h3>
 
-### 关于我
+## 🤔 关于我
 
 > 一个学生
 > 平时最喜欢写写代码和弹吉他
 
-## ❤ 最喜欢
+### ❤ 最喜欢
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,arch,java,mysql" />
 </p>
 
 ### 🚀 想学或者正在学
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,dart,typescript" />
+  <img src="https://skillicons.dev/icons?i=rust,dart,typescript,cpp,java" />
 </p>
 
 ### 🐚 Other...
