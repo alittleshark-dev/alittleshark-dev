@@ -1,5 +1,4 @@
 <h1 align="center"> 你好!我是一条小鲨 </h1>
-
 <h3  align="center">  欢迎来到我的海域!</h3>
 
 ### 关于我
@@ -26,11 +25,6 @@
 - 🎸 弹吉他
 - 穿女装 ??? 
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alittleshark-dev&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
 <!--
 **alittleshark-dev/alittleshark-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
