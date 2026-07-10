@@ -18,28 +18,17 @@
   <img src="https://skillicons.dev/icons?i=rust,dart,typescript,cpp,java" />
 </p>
 
-### 🐚 Other...
+### 🐚 爱好...
 
 - 💤 睡觉
 - 🎶 听歌
 - 🎸 弹吉他
 - 穿女装 ??? 
 
-### 📬 联系我
-
-<p align="center">
-  <a href="mailto:alittleshark2@example.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://space.bilibili.com/3546749438266233" target="_blank">
-    <img src="https://skillicons.dev/icons?i=bilibili" alt="Bilibili" />
-  </a>
-  &nbsp;
-  <a href="tencent://message/?uin=3982205220&Site=&Menu=yes">
-    <img src="https://skillicons.dev/icons?i=qq" alt="QQ" />
-  </a>
-</p>
+### 欢迎你来找我玩
+```text
+企鹅: 3982205220
+```
 
 <!--
 **alittleshark-dev/alittleshark-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
