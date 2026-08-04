@@ -29,6 +29,8 @@
 企鹅: 3982205220
 ```
 
+### Languages
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alittleshark-dev&layout=compact&langs_count=12&hide=html,Jupyter%20Notebook,MATLAB&title_color=000000&text_color=3c096c)
 <!--
 **alittleshark-dev/alittleshark-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
