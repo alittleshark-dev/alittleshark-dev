@@ -6,16 +6,16 @@
 > 一个学生
 > 平时最喜欢写写代码和弹吉他
 
-### ❤ 最喜欢
+### ❤ 最喜欢和最擅长
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,arch,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,arch,html,css,js, dart" />
 </p>
 
 ### 🚀 想学或者正在学
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=lua,rust,dart,typescript,cpp,java" />
+  <img src="https://skillicons.dev/icons?i=lua,rust,dart,typescript,cpp,java, kotlin" />
 </p>
 
 ### 🐚 爱好...
