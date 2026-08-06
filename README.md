@@ -9,13 +9,13 @@
 ### ❤ 最喜欢和最擅长
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,arch,html,css,js, dart" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,arch,html,css,js,dart" />
 </p>
 
 ### 🚀 想学或者正在学
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=lua,rust,dart,typescript,cpp,java, kotlin" />
+  <img src="https://skillicons.dev/icons?i=lua,rust,dart,kotlin,typescript,cpp,java" />
 </p>
 
 ### 🐚 爱好...
