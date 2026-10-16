@@ -24,7 +24,8 @@
 - 🎶 听歌
 - 🎸 弹吉他
 
-### 动态
+### 📈 My GitHub
+
 <div align="center">
   <a href="https://github.com/alittleshark-dev">
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=alittleshark-dev&show_icons=true&bg_color=ffffff&title_color=ff1493&text_color=4a0e2e&icon_color=ff69b4" />
@@ -35,6 +36,7 @@
 </div>
 
 ### 随时欢迎你来找我玩
+
 ```text
 企鹅: 3982205220
 ```
