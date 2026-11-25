@@ -25,13 +25,16 @@
 - 🎸 弹吉他
 
 ### 📈 My GitHub
-
 <div align="center">
   <a href="https://github.com/alittleshark-dev">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=alittleshark-dev&show_icons=true&bg_color=ffffff&title_color=ff1493&text_color=4a0e2e&icon_color=ff69b4" />
+    <img src="https://github-readme-stats.vercel.app/api?username=alittleshark-dev&show_icons=true&bg_color=ffffff&title_color=0077b6&text_color=023e8a&icon_color=00b4d8&border_color=90e0ef" />
   </a>
+</div>
+
+### Top Language
+<div align="center">
   <a href="https://github.com/alittleshark-dev">
-    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alittleshark-dev&layout=compact&langs_count=12&hide=html,Jupyter%20Notebook,MATLAB&title_color=000000&text_color=3c096c" />
+    <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alittleshark-dev&layout=compact&langs_count=12&hide=html,Jupyter%20Notebook,MATLAB&title_color=000000&text_color=3c096c" />
   </a>
 </div>
 
