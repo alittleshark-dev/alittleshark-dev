@@ -27,14 +27,14 @@
 ### 📈 My GitHub
 <div align="center">
   <a href="https://github.com/alittleshark-dev">
-    <img src="https://github-readme-stats.vercel.app/api?username=alittleshark-dev&show_icons=true&bg_color=ffffff&title_color=0077b6&text_color=023e8a&icon_color=00b4d8&border_color=90e0ef" />
+     <img src="https://github-readme-stats.vercel.app/api?username=alittleshark-dev&show_icons=true&bg_color=30,cceeff,ffe6f2&title_color=0077b6&text_color=4a4e69&icon_color=ff8fab&border_color=ffffff" />
   </a>
 </div>
 
 ### Top Language
 <div align="center">
   <a href="https://github.com/alittleshark-dev">
-    <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alittleshark-dev&layout=compact&langs_count=12&hide=html,Jupyter%20Notebook,MATLAB&title_color=000000&text_color=3c096c" />
+      <img width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alittleshark-dev&layout=compact&langs_count=12&hide=html,Jupyter%20Notebook,MATLAB&bg_color=30,cceeff,ffe6f2&title_color=0077b6&text_color=4a4e69&border_color=ffffff" />
   </a>
 </div>
 
