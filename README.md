@@ -25,16 +25,13 @@
 - 🎸 弹吉他
 
 ### 📈 My GitHub
-<div align="center">
-  <a href="https://github.com/alittleshark-dev">
-     <img src="https://github-readme-stats.vercel.app/api?username=alittleshark-dev&show_icons=true&bg_color=30,cceeff,ffe6f2&title_color=0077b6&text_color=4a4e69&icon_color=ff8fab&border_color=ffffff" />
-  </a>
-</div>
 
-### Top Language
 <div align="center">
   <a href="https://github.com/alittleshark-dev">
-      <img width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alittleshark-dev&layout=compact&langs_count=12&hide=html,Jupyter%20Notebook,MATLAB&bg_color=30,cceeff,ffe6f2&title_color=0077b6&text_color=4a4e69&border_color=ffffff" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=alittleshark-dev&show_icons=true&bg_color=90,cceeff,ffe6f2&title_color=0077b6&text_color=4a4e69&icon_color=ff8fab&border_color=ffffff" />
+  </a>
+  <a href="https://github.com/alittleshark-dev">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alittleshark-dev&layout=compact&langs_count=10&hide=html,Jupyter%20Notebook,MATLAB&bg_color=90,cceeff,ffe6f2&title_color=0077b6&text_color=4a4e69&border_color=ffffff" />
   </a>
 </div>
 
